@@ -1,10 +1,10 @@
 [Chinese](#Kmeans聚类)
 
-[English](#Kmeans Clustering)
+[English](#Kmeans_Clustering)
 
 
 
-# Kmeans Clustering
+# Kmeans_Clustering
 
 Using Kmeans Clustering without any library. 
 
